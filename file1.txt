@@ -1,1 +1,5 @@
-#Adding text to file1
+
+#Adding text to file1 through commit. This is done later.
+
+Adding text to file1 through UI. This is done first than through CLI.
+
