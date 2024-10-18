@@ -1,0 +1,1 @@
+Adding text to file1 through UI. This is done first than through CLI.
